@@ -1,7 +1,6 @@
-# {Naam}
+# FDND huisstijl pagina met formulier
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht FDND-huisstijl-pagina-met-formulier leer je een pagina en formulier maken in de huisstijl van FDND.
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
